@@ -10,7 +10,7 @@ CoffeePomodoro is a productivity app that helps users manage their time effectiv
 
 The privacy policy is hosted at:
 ```
-https://[your-username].github.io/coffeepomodoro-privacy/privacy-policy.html
+https://remziakgoz.github.io/coffeepomodoro-privacy/privacy-policy.html
 ```
 
 ## 📄 What's Included
